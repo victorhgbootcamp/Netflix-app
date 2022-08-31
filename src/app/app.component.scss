@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    // justify-content: center;
+    // align-items: center;
+    margin-left: 12px;
+    font-family: netflix;   
+}
+@font-face {
+    font-family: netflix ;
+    src: url(../assets/fonts/NetflixSans-Regular.otf);
+}

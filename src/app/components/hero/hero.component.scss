@@ -1,0 +1,23 @@
+.section{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+    color: white;
+    margin-left: 20px;
+}
+.fotos{
+    display: flex;
+    margin-right: -20px;
+    
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+    width: 100%;
+}
+.img-num{
+    margin-right:-50px,
+}

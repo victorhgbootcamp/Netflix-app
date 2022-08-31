@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    color: white;
+    margin: 10px 20px 30px 20px;
+}
+.texto{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 20px;
+    span{
+        padding-right: 15px;
+    }
+}
+.buscar{
+    display: flex;
+    align-items: center;
+    margin-right: 45px;
+}

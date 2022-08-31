@@ -1,0 +1,19 @@
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    color: white;
+    margin: 10px 0 10px 20px;
+    p{
+        margin-bottom: 5px;
+    }
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    img{
+        margin-right: 10px;
+    }
+        
+}
